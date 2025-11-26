@@ -1,0 +1,406 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 21885637,
+            "tagId": 32512,
+            "name": "sequence",
+            "value": "0009",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:34.693Z",
+            "updatedAt": "2024-03-12T15:40:34.693Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 1242
+    },
+    "objects": [
+        {
+            "id": 159533098,
+            "classId": 6551258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:34.694Z",
+            "updatedAt": "2024-03-12T15:40:34.694Z",
+            "tags": [
+                {
+                    "id": 121994121,
+                    "tagId": 32511,
+                    "name": "object id",
+                    "value": 1070,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:40:34.694Z",
+                    "updatedAt": "2024-03-12T15:40:34.694Z"
+                },
+                {
+                    "id": 121994122,
+                    "tagId": 32513,
+                    "name": "instance id",
+                    "value": 70,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:40:34.694Z",
+                    "updatedAt": "2024-03-12T15:40:34.694Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        192
+                    ],
+                    [
+                        317,
+                        193
+                    ],
+                    [
+                        313,
+                        193
+                    ],
+                    [
+                        312,
+                        194
+                    ],
+                    [
+                        310,
+                        194
+                    ],
+                    [
+                        309,
+                        195
+                    ],
+                    [
+                        308,
+                        195
+                    ],
+                    [
+                        307,
+                        196
+                    ],
+                    [
+                        306,
+                        196
+                    ],
+                    [
+                        303,
+                        199
+                    ],
+                    [
+                        302,
+                        199
+                    ],
+                    [
+                        302,
+                        200
+                    ],
+                    [
+                        301,
+                        201
+                    ],
+                    [
+                        300,
+                        201
+                    ],
+                    [
+                        300,
+                        202
+                    ],
+                    [
+                        299,
+                        203
+                    ],
+                    [
+                        298,
+                        203
+                    ],
+                    [
+                        293,
+                        208
+                    ],
+                    [
+                        293,
+                        210
+                    ],
+                    [
+                        292,
+                        211
+                    ],
+                    [
+                        292,
+                        213
+                    ],
+                    [
+                        293,
+                        214
+                    ],
+                    [
+                        293,
+                        216
+                    ],
+                    [
+                        296,
+                        219
+                    ],
+                    [
+                        299,
+                        219
+                    ],
+                    [
+                        300,
+                        218
+                    ],
+                    [
+                        302,
+                        218
+                    ],
+                    [
+                        303,
+                        217
+                    ],
+                    [
+                        308,
+                        217
+                    ],
+                    [
+                        309,
+                        216
+                    ],
+                    [
+                        312,
+                        216
+                    ],
+                    [
+                        313,
+                        217
+                    ],
+                    [
+                        317,
+                        217
+                    ],
+                    [
+                        318,
+                        216
+                    ],
+                    [
+                        319,
+                        216
+                    ],
+                    [
+                        320,
+                        217
+                    ],
+                    [
+                        322,
+                        217
+                    ],
+                    [
+                        323,
+                        218
+                    ],
+                    [
+                        324,
+                        218
+                    ],
+                    [
+                        328,
+                        214
+                    ],
+                    [
+                        331,
+                        214
+                    ],
+                    [
+                        332,
+                        213
+                    ],
+                    [
+                        334,
+                        213
+                    ],
+                    [
+                        335,
+                        214
+                    ],
+                    [
+                        336,
+                        214
+                    ],
+                    [
+                        337,
+                        215
+                    ],
+                    [
+                        341,
+                        215
+                    ],
+                    [
+                        343,
+                        213
+                    ],
+                    [
+                        343,
+                        212
+                    ],
+                    [
+                        344,
+                        211
+                    ],
+                    [
+                        344,
+                        210
+                    ],
+                    [
+                        345,
+                        209
+                    ],
+                    [
+                        345,
+                        204
+                    ],
+                    [
+                        344,
+                        203
+                    ],
+                    [
+                        344,
+                        201
+                    ],
+                    [
+                        342,
+                        199
+                    ],
+                    [
+                        341,
+                        199
+                    ],
+                    [
+                        336,
+                        194
+                    ],
+                    [
+                        335,
+                        194
+                    ],
+                    [
+                        334,
+                        193
+                    ],
+                    [
+                        332,
+                        193
+                    ],
+                    [
+                        331,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159533099,
+            "classId": 6551258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:34.695Z",
+            "updatedAt": "2024-03-12T15:40:34.695Z",
+            "tags": [
+                {
+                    "id": 121994123,
+                    "tagId": 32511,
+                    "name": "object id",
+                    "value": 1070,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:40:34.695Z",
+                    "updatedAt": "2024-03-12T15:40:34.695Z"
+                },
+                {
+                    "id": 121994124,
+                    "tagId": 32513,
+                    "name": "instance id",
+                    "value": 70,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:40:34.695Z",
+                    "updatedAt": "2024-03-12T15:40:34.695Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        192
+                    ],
+                    [
+                        345,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159533100,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:34.696Z",
+            "updatedAt": "2024-03-12T15:40:34.696Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        585,
+                        146
+                    ],
+                    [
+                        585,
+                        205
+                    ],
+                    [
+                        633,
+                        205
+                    ],
+                    [
+                        633,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159533101,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:34.696Z",
+            "updatedAt": "2024-03-12T15:40:34.696Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        585,
+                        146
+                    ],
+                    [
+                        633,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

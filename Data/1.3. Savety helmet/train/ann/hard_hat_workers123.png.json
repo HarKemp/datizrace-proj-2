@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 416,
+        "width": 416
+    },
+    "objects": [
+        {
+            "id": 14202367,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:38:30.704Z",
+            "updatedAt": "2023-07-06T14:38:30.704Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        83
+                    ],
+                    [
+                        251,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14202366,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:38:30.703Z",
+            "updatedAt": "2023-07-06T14:38:30.703Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        46
+                    ],
+                    [
+                        308,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

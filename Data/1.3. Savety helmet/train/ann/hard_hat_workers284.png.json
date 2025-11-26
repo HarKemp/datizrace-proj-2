@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 415,
+        "width": 416
+    },
+    "objects": [
+        {
+            "id": 14199474,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:33:39.449Z",
+            "updatedAt": "2023-07-06T14:33:39.449Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        160
+                    ],
+                    [
+                        186,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14199473,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:33:39.448Z",
+            "updatedAt": "2023-07-06T14:33:39.448Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        151
+                    ],
+                    [
+                        81,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14199472,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:33:39.447Z",
+            "updatedAt": "2023-07-06T14:33:39.447Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        149
+                    ],
+                    [
+                        332,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14199471,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:33:39.447Z",
+            "updatedAt": "2023-07-06T14:33:39.447Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        154
+                    ],
+                    [
+                        390,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14199470,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:33:39.446Z",
+            "updatedAt": "2023-07-06T14:33:39.446Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        160
+                    ],
+                    [
+                        252,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14199469,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:33:39.446Z",
+            "updatedAt": "2023-07-06T14:33:39.446Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        158
+                    ],
+                    [
+                        267,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

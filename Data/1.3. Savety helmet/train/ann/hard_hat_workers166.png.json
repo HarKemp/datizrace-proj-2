@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 415,
+        "width": 416
+    },
+    "objects": [
+        {
+            "id": 14213593,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:56:15.571Z",
+            "updatedAt": "2023-07-06T14:56:15.571Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        69
+                    ],
+                    [
+                        235,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14213592,
+            "classId": 20427,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:56:15.571Z",
+            "updatedAt": "2023-07-06T14:56:15.571Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        74
+                    ],
+                    [
+                        407,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14213591,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:56:15.570Z",
+            "updatedAt": "2023-07-06T14:56:15.570Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        0
+                    ],
+                    [
+                        235,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14213590,
+            "classId": 20427,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:56:15.569Z",
+            "updatedAt": "2023-07-06T14:56:15.569Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        0
+                    ],
+                    [
+                        407,
+                        65
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14213589,
+            "classId": 20427,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:56:15.568Z",
+            "updatedAt": "2023-07-06T14:56:15.568Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        347
+                    ],
+                    [
+                        407,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 416,
+        "width": 416
+    },
+    "objects": [
+        {
+            "id": 14215728,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:59:23.742Z",
+            "updatedAt": "2023-07-06T14:59:23.742Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        256
+                    ],
+                    [
+                        57,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14215727,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:59:23.742Z",
+            "updatedAt": "2023-07-06T14:59:23.742Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        258
+                    ],
+                    [
+                        189,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14215726,
+            "classId": 20426,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-07-06T14:59:23.741Z",
+            "updatedAt": "2023-07-06T14:59:23.741Z",
+            "tags": [],
+            "classTitle": "helmet",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        170
+                    ],
+                    [
+                        96,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
