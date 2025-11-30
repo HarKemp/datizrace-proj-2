@@ -1,0 +1,3 @@
+train: datasets/helmet/images/train
+val: datasets/helmet/images/val
+names: [helmet, head, person]

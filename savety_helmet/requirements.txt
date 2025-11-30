@@ -1,0 +1,4 @@
+ultralytics>=8.3.0
+pycocotools>=2.0.8
+# Detectron2 wheel instalē atbilstoši klastera cuda/ platformai, piem:
+# pip install 'git+https://github.com/facebookresearch/detectron2.git'
