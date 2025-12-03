@@ -1,6 +1,6 @@
-# Evaluation skripts YOLOv8 modeļiem priekš Safety Helmet datu kopas
+# Evaluation skripts YOLOv8 un YOLO11 modeļiem priekš Safety Helmet datu kopas
 # Palaiž val uz norādītā svaru faila, piem, iekš komandrindas 
-# python savety_helmet/eval_yolo.py --weights runs/detect/train/weights/best.pt
+# python savety_helmet/eval_yolo.py --weights runs/detect/<run_name>/weights/best.pt
 # Un saglabā prognozes (save_txt/save_conf/save)
 
 import argparse

@@ -1,7 +1,7 @@
-# Treniņa skripts YOLOv8 modeļiem priekš Safety Helmet datu kopas
+# Treniņa skripts YOLOv8 un YOLO11 modeļiem priekš Safety Helmet datu kopas
 
-# Izmanto priekšapmācītus svarus (yolov8s.pt vai yolov8m.pt) - šeit pēc default yolov8s, bet to mainu iekš
-# komandrindas, palaižot python savety_helmet/train_yolo.py --model yolov8s.pt vai 
+# Izmanto priekšapmācītus svarus (piem yolov8s.pt vai yolov8m.pt) - šeit pēc default yolov8s, bet to mainu iekš
+# komandrindas, palaižot piemēram python savety_helmet/train_yolo.py --model yolov8s.pt vai 
 # python savety_helmet/train_yolo.py --model yolov8m.pt 
 # Trenē uz safety-helmet.yaml datiem
 
