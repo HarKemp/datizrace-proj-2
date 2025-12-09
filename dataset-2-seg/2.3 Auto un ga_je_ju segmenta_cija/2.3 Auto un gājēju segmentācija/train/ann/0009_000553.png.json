@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 21886221,
+            "tagId": 32512,
+            "name": "sequence",
+            "value": "0009",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:43:37.405Z",
+            "updatedAt": "2024-03-12T15:43:37.405Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 1242
+    },
+    "objects": [
+        {
+            "id": 159545398,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:43:37.405Z",
+            "updatedAt": "2024-03-12T15:43:37.405Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        183
+                    ],
+                    [
+                        547,
+                        195
+                    ],
+                    [
+                        585,
+                        195
+                    ],
+                    [
+                        585,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159545399,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:43:37.406Z",
+            "updatedAt": "2024-03-12T15:43:37.406Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        183
+                    ],
+                    [
+                        585,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159545400,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:43:37.406Z",
+            "updatedAt": "2024-03-12T15:43:37.406Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        148
+                    ],
+                    [
+                        587,
+                        199
+                    ],
+                    [
+                        629,
+                        199
+                    ],
+                    [
+                        629,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159545401,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:43:37.406Z",
+            "updatedAt": "2024-03-12T15:43:37.406Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        148
+                    ],
+                    [
+                        629,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

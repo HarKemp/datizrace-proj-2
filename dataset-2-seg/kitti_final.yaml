@@ -1,0 +1,6 @@
+names:
+  0: Car
+  1: Pedestrian
+path: c:\Users\SP25_2studenti_0neir\Downloads\qu1t2dkziljj5bvw\yolo_dataset_final
+train: images/train
+val: images/val

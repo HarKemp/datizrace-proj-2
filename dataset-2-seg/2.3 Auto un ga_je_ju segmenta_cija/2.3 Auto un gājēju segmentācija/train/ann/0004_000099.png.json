@@ -1,0 +1,460 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 21884780,
+            "tagId": 32512,
+            "name": "sequence",
+            "value": "0004",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.848Z",
+            "updatedAt": "2024-03-12T15:31:20.848Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 1242
+    },
+    "objects": [
+        {
+            "id": 159519730,
+            "classId": 6551258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.850Z",
+            "updatedAt": "2024-03-12T15:31:20.850Z",
+            "tags": [
+                {
+                    "id": 121979993,
+                    "tagId": 32511,
+                    "name": "object id",
+                    "value": 1002,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:31:20.850Z",
+                    "updatedAt": "2024-03-12T15:31:20.850Z"
+                },
+                {
+                    "id": 121979994,
+                    "tagId": 32513,
+                    "name": "instance id",
+                    "value": 2,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:31:20.850Z",
+                    "updatedAt": "2024-03-12T15:31:20.850Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        585,
+                        181
+                    ],
+                    [
+                        581,
+                        185
+                    ],
+                    [
+                        581,
+                        186
+                    ],
+                    [
+                        580,
+                        187
+                    ],
+                    [
+                        580,
+                        193
+                    ],
+                    [
+                        579,
+                        194
+                    ],
+                    [
+                        579,
+                        200
+                    ],
+                    [
+                        580,
+                        201
+                    ],
+                    [
+                        580,
+                        204
+                    ],
+                    [
+                        582,
+                        204
+                    ],
+                    [
+                        583,
+                        203
+                    ],
+                    [
+                        585,
+                        203
+                    ],
+                    [
+                        586,
+                        202
+                    ],
+                    [
+                        597,
+                        202
+                    ],
+                    [
+                        598,
+                        203
+                    ],
+                    [
+                        601,
+                        203
+                    ],
+                    [
+                        603,
+                        205
+                    ],
+                    [
+                        604,
+                        204
+                    ],
+                    [
+                        604,
+                        203
+                    ],
+                    [
+                        605,
+                        202
+                    ],
+                    [
+                        605,
+                        196
+                    ],
+                    [
+                        606,
+                        195
+                    ],
+                    [
+                        605,
+                        194
+                    ],
+                    [
+                        606,
+                        193
+                    ],
+                    [
+                        606,
+                        190
+                    ],
+                    [
+                        605,
+                        189
+                    ],
+                    [
+                        605,
+                        187
+                    ],
+                    [
+                        604,
+                        186
+                    ],
+                    [
+                        604,
+                        185
+                    ],
+                    [
+                        601,
+                        182
+                    ],
+                    [
+                        600,
+                        182
+                    ],
+                    [
+                        599,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519731,
+            "classId": 6551258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.852Z",
+            "updatedAt": "2024-03-12T15:31:20.852Z",
+            "tags": [
+                {
+                    "id": 121979995,
+                    "tagId": 32511,
+                    "name": "object id",
+                    "value": 1002,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:31:20.852Z",
+                    "updatedAt": "2024-03-12T15:31:20.852Z"
+                },
+                {
+                    "id": 121979996,
+                    "tagId": 32513,
+                    "name": "instance id",
+                    "value": 2,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-12T15:31:20.852Z",
+                    "updatedAt": "2024-03-12T15:31:20.852Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        579,
+                        181
+                    ],
+                    [
+                        606,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519732,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.854Z",
+            "updatedAt": "2024-03-12T15:31:20.854Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        178
+                    ],
+                    [
+                        487,
+                        198
+                    ],
+                    [
+                        525,
+                        198
+                    ],
+                    [
+                        525,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519733,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.854Z",
+            "updatedAt": "2024-03-12T15:31:20.854Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        178
+                    ],
+                    [
+                        525,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519734,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.855Z",
+            "updatedAt": "2024-03-12T15:31:20.855Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        177
+                    ],
+                    [
+                        547,
+                        192
+                    ],
+                    [
+                        561,
+                        192
+                    ],
+                    [
+                        561,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519735,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.856Z",
+            "updatedAt": "2024-03-12T15:31:20.856Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        177
+                    ],
+                    [
+                        561,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519736,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.859Z",
+            "updatedAt": "2024-03-12T15:31:20.859Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        172
+                    ],
+                    [
+                        635,
+                        208
+                    ],
+                    [
+                        661,
+                        208
+                    ],
+                    [
+                        661,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519737,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.860Z",
+            "updatedAt": "2024-03-12T15:31:20.860Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        172
+                    ],
+                    [
+                        661,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519738,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.863Z",
+            "updatedAt": "2024-03-12T15:31:20.863Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        154
+                    ],
+                    [
+                        272,
+                        211
+                    ],
+                    [
+                        417,
+                        211
+                    ],
+                    [
+                        417,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159519739,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:31:20.864Z",
+            "updatedAt": "2024-03-12T15:31:20.864Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        154
+                    ],
+                    [
+                        417,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

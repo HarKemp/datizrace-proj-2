@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 21885686,
+            "tagId": 32512,
+            "name": "sequence",
+            "value": "0009",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:40.212Z",
+            "updatedAt": "2024-03-12T15:40:40.212Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 1242
+    },
+    "objects": [
+        {
+            "id": 159533778,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:40.213Z",
+            "updatedAt": "2024-03-12T15:40:40.213Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        586,
+                        150
+                    ],
+                    [
+                        586,
+                        182
+                    ],
+                    [
+                        585,
+                        183
+                    ],
+                    [
+                        547,
+                        183
+                    ],
+                    [
+                        547,
+                        195
+                    ],
+                    [
+                        585,
+                        195
+                    ],
+                    [
+                        586,
+                        196
+                    ],
+                    [
+                        586,
+                        201
+                    ],
+                    [
+                        628,
+                        201
+                    ],
+                    [
+                        628,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 159533779,
+            "classId": 6551259,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-12T15:40:40.213Z",
+            "updatedAt": "2024-03-12T15:40:40.213Z",
+            "tags": [],
+            "classTitle": "ignore region",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        150
+                    ],
+                    [
+                        628,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+
+path: c:\Users\Lietotajs\Desktop\gitrepos\datizrace-proj-2\dataset-2-seg\yolo_dataset_v2
+train: images/train
+val: images/val
+nc: 2
+names: ['car', 'pedestrian']
